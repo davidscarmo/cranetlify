@@ -16,8 +16,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          LearnReact with Rocketseat
         </a>
+        ::a
+        :a
+        :aw
+        :aq
+        wq
       </header>
     </div>
   );
